@@ -10,6 +10,11 @@ public class salesclass {
 			System.out.println(num);
 		}
 	}
+	public void print()
+	{
+		System.out.println("Print all array members");
+		display();
+	}
 	
 	
 }
