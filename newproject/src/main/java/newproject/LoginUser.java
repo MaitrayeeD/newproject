@@ -1,6 +1,6 @@
 package newproject;
 
-public class loginuser {
+public class LoginUser {
 	private String userName;
 	private String password;
 
