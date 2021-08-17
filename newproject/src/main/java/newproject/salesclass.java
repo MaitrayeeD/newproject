@@ -15,6 +15,7 @@ public class salesclass {
 	}
 	
 	
+	
 	public void print()
 	{
 		System.out.println("Print all array members");
