@@ -14,6 +14,7 @@ public class salesclass {
 		System.out.println("Array size"+arr.length);
 	}
 	
+	
 	public void print()
 	{
 		System.out.println("Print all array members");
